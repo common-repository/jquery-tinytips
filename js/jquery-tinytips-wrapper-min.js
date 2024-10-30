@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){a("a.tinytips").each(function(b,c){if(a(c).attr("title")){a(c).tinyTips(Tinytips.tinytipsTheme,"title")}})});
